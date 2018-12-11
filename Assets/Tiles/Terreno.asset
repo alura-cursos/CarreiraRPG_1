@@ -7,11 +7,11 @@ MonoBehaviour:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Jogo-RPG_84x84_24
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535f8e525ff367c4ba67961e201a05ed, type: 3}
+  m_Name: Terreno
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300048, guid: 30c9a57f2d18f0c4fa8a5d1d43aa0f12, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
@@ -33,3 +33,8 @@ MonoBehaviour:
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 1
   m_ColliderType: 1
+  m_Sprites:
+  - {fileID: 21300042, guid: 30c9a57f2d18f0c4fa8a5d1d43aa0f12, type: 3}
+  - {fileID: 21300054, guid: 30c9a57f2d18f0c4fa8a5d1d43aa0f12, type: 3}
+  - {fileID: 21300060, guid: 30c9a57f2d18f0c4fa8a5d1d43aa0f12, type: 3}
+  - {fileID: 21300072, guid: 30c9a57f2d18f0c4fa8a5d1d43aa0f12, type: 3}
