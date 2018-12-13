@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Personagem : MonoBehaviour {
     private Animator controleAnimacao;
-    private float velocidade = 0.2f;
+    private float velocidade = 0.1f;
 	private void Start () {
         this.controleAnimacao = this.GetComponent<Animator>();
 	}
